@@ -1,0 +1,38 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background: firebrick;
+
+}
+
+.header_div{
+    background: white;
+    color: blue;
+
+}
+
+.header_div p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+
+    position:fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:aqua;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
